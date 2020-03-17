@@ -17,7 +17,9 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5 {
     font-family: "Geometria";
     font-size: 22px;
     color: rgba(160, 156, 156, 0.952);
@@ -211,6 +213,9 @@ form {
     margin: auto;
 }
 
+.formModal{
+    margin: auto;
+}
 
 .formTop,.formBottom{
     text-align: center;
@@ -247,6 +252,10 @@ form {
     width: 30%;
 }
 
+.form-group-modal {
+    width: 100%;
+    text-align: center;
+}
 .form-group-midle{
     width: 10%;
 }
@@ -257,3 +266,10 @@ text-align: center;
 border-radius: 20px;
 }
 
+.btn-modal {
+    width: 100%;
+}
+
+#exampleModalLabel {
+    margin-left: 39%;
+}
