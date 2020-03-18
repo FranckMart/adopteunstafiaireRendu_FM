@@ -12,9 +12,8 @@
 </head>
 
 <body>
-    <?php include("include/modal.php");?>
     <?php include("include/header.php"); ?>
-
+    <?php include("include/modal.php");?>
     <section>
         <div class="contentTop">
             <div class="contentLeft">
