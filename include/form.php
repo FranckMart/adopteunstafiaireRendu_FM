@@ -1,4 +1,4 @@
-<form>
+<form action="#" method="POST">
     <div class="formTop">
         <div class="form-group">
             <label for="siret">Siret entreprise</label>
